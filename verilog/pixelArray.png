@@ -1,0 +1,134 @@
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Fri Nov 19 02:50:31 2021
+
+# Variables
+
+# environment
+XTERM_LOCALE = C
+# environment
+XTERM_VERSION = XTerm(353)
+# environment
+WINDOWID = 83886096
+# environment
+VNCDESKTOP = X
+# default
+.VARIABLES := 
+# environment
+PWD = /home/ciceda/project3/verilog
+# environment
+HOSTNAME = d013bb7f5205
+# environment
+XDG_DATA_DIRS = /usr/local/share:/usr/share
+# environment
+OLDPWD = /home/ciceda/project3
+# default
+.LOADED := 
+# environment
+SSH_AUTH_SOCK = /tmp/ssh-OLqilppzDTBN/agent.66
+# default
+.SHELLFLAGS := -c
+# environment
+XDG_CONFIG_DIRS = /etc/xdg
+# environment
+SESSION_MANAGER = local/d013bb7f5205:@/tmp/.ICE-unix/32,unix/d013bb7f5205:/tmp/.ICE-unix/32
+# environment
+XTERM_SHELL = /bin/bash
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:abstract=/tmp/dbus-RzpbpwKD2m,guid=e7e2809a6b4d55f2228caa2a61943fbb
+# environment
+SHELL = /bin/bash
+# default
+MAKECMDGOALS := synth dot pixelArray.dot
+# environment
+SHLVL = 3
+# environment
+PATH = /opt/eda/bin:/usr/local/opt/qt/bin:~/.emacs.d/bin:/opt/eda/bin:/usr/local/opt/qt/bin:~/.emacs.d/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/ciceda/.local/bin:/home/ciceda/bin
+# environment
+XDG_CURRENT_DESKTOP = XFCE
+# environment
+LS_COLORS = no=00:fi=01;37:di=01;32:ln=01;36:or=05;31:mi=05;31:tw=01;37:ow=01;37:ex=01;36:*.sh=01;36:
+# environment
+DESKTOP_SESSION = xfce
+# environment
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = ciceda
+# environment
+DISPLAY = :0.0
+# environment
+USER = ciceda
+# environment
+SSH_AGENT_PID = 67
+# environment
+_ = /usr/bin/make
+# environment
+HOME = /home/ciceda
+# environment
+TERM = xterm
+# default
+.RECIPEPREFIX := 
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+XDG_MENU_PREFIX = xfce-
+# variable set hash-table stats:
+# Load=34/1024=3%, Rehash=0, Collisions=1/41=2%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+
+# No files, no impossibilities in 0 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+synth:
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+pixelArray.dot:
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+dot:
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=3/1024=0%, Rehash=0, Collisions=0/3=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 3 / storage = 25 B / avg = 8 B
+# current buf: size = 8162 B / used = 25 B / count = 3 / avg = 8 B
+
+# strcache performance: lookups = 6 / hit rate = 50%
+# hash-table stats:
+# Load=3/8192=0%, Rehash=0, Collisions=0/6=0%
+# Finished Make data base on Fri Nov 19 02:50:31 2021
+
